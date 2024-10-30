@@ -1,0 +1,74 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    
+  }
+
+
+.nav{
+
+    background-color:honeydew ;
+    color: black;   
+    margin: 0;
+    display: flex;
+    text-decoration: none;
+}
+.tilton{
+        display:flex ;
+        align-items: left;
+        padding-right: 28rem;
+        padding-left: 0.75rem;
+        text-decoration: none;
+        color: black; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+;
+    }
+.left{
+    display: flex;
+    justify-content:flex-end;
+    align-items:center;
+    text-decoration: none;
+    border-radius: 55px;
+    color: gray;
+
+}
+
+#Home{
+padding-right: .5rem;
+background-color: white;
+border-radius: 55rem;
+}
+#About-Us{
+    padding-right: .5rem;
+    background-color: white;
+    border-radius: 55rem;
+}
+#Services{
+    padding-right: .5rem;
+    background-color: white;
+    border-radius: 55rem;
+}
+#Faqs {
+    padding-right: .5rem;
+    background-color: white;
+    border-radius: 55rem;
+
+}
+#Contacs{
+    padding-right: .5rem;
+    background-color: white;
+    border-radius: 55rem;
+    
+}
+
+.btn{
+ border-radius: 75px;
+ background-color: black;
+ color: white;
+ align-self:flex-end ; 
+ margin-left: 22rem;
+ border: 0px;
+
+}
+
